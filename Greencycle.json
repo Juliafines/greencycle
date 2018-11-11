@@ -1,0 +1,38 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "smart way",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "give me recycling tips",
+                        "give me some recycling tips",
+                        "how should I recycle paper",
+                        "how should I recycle plastic",
+                        "how should I recycle cardboard",
+                        "what are my sustainability stats"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
