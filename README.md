@@ -8,7 +8,7 @@ It is an iOS app augmented by an Alexa Skill which will collect data about a hou
 
 Greencycle will present users with weekly statistics of their carbon footprint in a barchart (comparing their results to average US and world ones).
 
-Greencycle Alexa skill will provide the following 
+Greencycle Alexa skill will do the following:
 
 "Alexa, open Greencycle."
 "Your current footprint is: _NUMBER_. That's a significant improvement from last week. Doing great!"
